@@ -4,7 +4,7 @@ public class Test
 	{
 	for (int i=1;i<=10;i++)
         	{
-        	System.out.println("Hello Rajnish");
+        	System.out.println("Hello Avanish");
 	        System.out.println("Hello Kumar");
         	}
 	}
